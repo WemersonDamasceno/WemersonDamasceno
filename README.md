@@ -1,7 +1,35 @@
+<html>
+
 <img src="https://user-images.githubusercontent.com/37156004/90978236-a8b05a80-e522-11ea-8d33-50d8db9f8f37.png">
-- 🌱 Atualmente estou aprendendo a tecnologia React Native para desenvolvimento mobile
-- 👯 Estou procurando colaborar em projetos pequenos e médios para ganhar experiência
-- 🤔 Estou procurando ajuda com React Native
-- Linkedin: encurtador.com.br/evwN4
-- E-mail: wemersondamasceno7@gmail.com
+<h1>Em busca de se tornar um desenvolvedor</h1>
+<h2>👨Atualmente estou estudando desenvolvimento de aplicações mobile</h2>
+
+<ul>
+    <li>Android Nativo <img src="https://user-images.githubusercontent.com/37156004/90978827-11013b00-e527-11ea-91da-66864f92b200.png" height="20px"/>  </li>
+    <li>Iniciando os estudos em React <img src="https://user-images.githubusercontent.com/37156004/90979139-5fafd480-e529-11ea-9366-946103dda631.png" height="25px" /></li>
+    <li>Iniciando os estudos em Fluter <img src="https://user-images.githubusercontent.com/37156004/90979137-5de61100-e529-11ea-9058-37a3e3b9a781.png" height="20px"/></li>
+</ul>
+
+<h2>👤Um pouco sobre mim</h2>
+<ul>
+    <li>Estou graduando em Sistemas de Informação pela Universidade Federal do Ceará - UFC</li>
+    <li>Procuro fazer pequenos projetos para colocar em prática o que estou apredendo</li>
+    <li>Sou auto ditada e entusiasmado com o dev. mobile</li>
+    <li>Busco sempre novos desafios para praticar e aperfeiçoar meu conhecimento</li>
+</ul>
+
+<h2>🤓📚Linguagens e Tecnologias</h2>
+<ul>
+    <li>Java</li>
+    <li>Spring Boot</li>
+    <li>Android Nativo</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+
 <img src="https://user-images.githubusercontent.com/37156004/90978204-5f600b00-e522-11ea-85a6-56edd37da43f.png">
+
+
+
+</html>
