@@ -25,7 +25,13 @@
     <li>Android Nativo</li>
     <li>HTML</li>
     <li>CSS</li>
-</ul>
+</ul>   
+
+<div>
+    <h3>Entre em contato</h3>
+    <a href="mailto:wemersondamasceno7@gmail.com"><img src="https://user-images.githubusercontent.com/37156004/90982194-eb326100-e53b-11ea-8e49-43a400c5889d.png" height="50px" width="60px"/></a>  
+    <a href="https://github.com/WemersonDamasceno" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/37156004/90982195-ecfc2480-e53b-11ea-8e1e-987803fed013.png" height="50px" width="60px"/></a> 
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/37156004/90978204-5f600b00-e522-11ea-85a6-56edd37da43f.png">
