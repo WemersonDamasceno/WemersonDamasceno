@@ -6,7 +6,7 @@
 
 <ul>
     <li>Android Nativo <img src="https://user-images.githubusercontent.com/37156004/90978827-11013b00-e527-11ea-91da-66864f92b200.png" height="20px"/>  </li>
-    <li>Iniciando os estudos em React <img src="https://user-images.githubusercontent.com/37156004/90979139-5fafd480-e529-11ea-9366-946103dda631.png" height="25px" /></li>
+    <li>Iniciando os estudos em React Native<img src="https://user-images.githubusercontent.com/37156004/90979139-5fafd480-e529-11ea-9366-946103dda631.png" height="25px" /></li>
     <li>Iniciando os estudos em Fluter <img src="https://user-images.githubusercontent.com/37156004/90979137-5de61100-e529-11ea-9058-37a3e3b9a781.png" height="20px"/></li>
 </ul>
 
