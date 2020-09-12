@@ -23,6 +23,7 @@
     <li>Java</li>
     <li>Spring Boot</li>
     <li>Android Nativo</li>
+    <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
 </ul>   
