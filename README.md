@@ -21,11 +21,12 @@
 <h2>🤓📚Linguagens e Tecnologias</h2>
 <ul>
     <li>Java</li>
-    <li>Spring Boot</li>
     <li>Android Nativo</li>
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Flutter</li>
+    <li>React-Native</li>
 </ul>   
 
 <div>
