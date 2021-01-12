@@ -22,11 +22,10 @@
 <ul>
     <li>Java</li>
     <li>Android Nativo</li>
+    <li>Kotlin</li>
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Flutter</li>
-    <li>React-Native</li>
 </ul>   
 
 <div>
