@@ -29,14 +29,14 @@
 </ul>   
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/WemersonDamasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WemersonDamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemersonDamasceno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
  
-<div> 
+<div class="row">
   <a href="https://www.instagram.com/wemerson001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>
   
   <a href = "mailto:wemersondamasceno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
