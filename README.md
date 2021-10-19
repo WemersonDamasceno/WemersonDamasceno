@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemersonDamasceno&layout=compact&langs_count=7"/>
 </div>
  
-<div style="display: flex; flex-direction: row;">
+ <div style="display: flex; flex-direction: row;">
   <a style="margin-left: 10px;" href="https://www.instagram.com/wemerson001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>
   
   <a style="margin-left: 10px;" href = "mailto:wemersondamasceno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
