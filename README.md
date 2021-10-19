@@ -1,26 +1,12 @@
 <html style="">
 
-<img src="https://user-images.githubusercontent.com/37156004/90978236-a8b05a80-e522-11ea-8d33-50d8db9f8f37.png">
 <h1>Em busca de se tornar um desenvolvedor</h1>
 <h2>👨Atualmente estou estudando desenvolvimento de aplicações mobile</h2>
-
-<ul>
-    <li>Android Nativo <img src="https://user-images.githubusercontent.com/37156004/90978827-11013b00-e527-11ea-91da-66864f92b200.png" height="20px"/>  </li>
-    <li>Iniciando os estudos em React Native<img src="https://user-images.githubusercontent.com/37156004/90979139-5fafd480-e529-11ea-9366-946103dda631.png" height="25px" /></li>
-</ul>
-
-<h2>👤Um pouco sobre mim</h2>
-<ul>
-    <li>Estou graduando em Sistemas de Informação pela Universidade Federal do Ceará - UFC</li>
-    <li>Procuro fazer pequenos projetos para colocar em prática o que estou apredendo</li>
-    <li>Sou auto ditada e entusiasmado com o dev. mobile</li>
-    <li>Busco sempre novos desafios para praticar e aperfeiçoar meu conhecimento</li>
-</ul>
-
 <h2>🤓📚Linguagens e Tecnologias</h2>
 <ul>
     <li>Java</li>
     <li>Android Nativo</li>
+    <li>Flutter</li>
     <li>Kotlin</li>
     <li>Vue.js</li>
     <li>JavaScript</li>
