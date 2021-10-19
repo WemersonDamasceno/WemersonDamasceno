@@ -30,8 +30,4 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/37156004/90978204-5f600b00-e522-11ea-85a6-56edd37da43f.png">
-
-
-
 </html>
