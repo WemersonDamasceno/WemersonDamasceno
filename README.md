@@ -1,33 +1,30 @@
-<html style="">
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<h1>Em busca de se tornar um desenvolvedor</h1>
-<h2>👨Atualmente estou estudando desenvolvimento de aplicações mobile</h2>
-<h2>🤓📚Linguagens e Tecnologias</h2>
-<ul>
-    <li>Java</li>
-    <li>Android Nativo</li>
-    <li>Flutter</li>
-    <li>Kotlin</li>
-    <li>Vue.js</li>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>   
+### E ai! eu sou a Wemerson! 👋
 
- <div style="display: flex; flex-direction: row;">
+- 🌱 Estudando Flutter/Vue.js
+- 🏹 Futuro desenvolvedor dev mobile.
+- 🎮 Gosto muito de jogar e ouvir musica.
+
+<div align="center">
   <a href="https://github.com/WemersonDamasceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WemersonDamasceno&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemersonDamasceno&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WemersonDamasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemersonDamasceno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
- <div style="display: flex; flex-direction: row;">
-  <a style="margin-left: 10px;" href="https://www.instagram.com/wemerson001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"><a>
   
-  <a style="margin-left: 10px;" href = "mailto:wemersondamasceno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a style="margin-left: 10px;" href="https://www.linkedin.com/in/wemerson-monteiro-75b070176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Vue" height="30" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img align="center" alt="Android" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 </div>
-
-
-</html>
+  
+  ##
+  
+  ![Snake animation](https://github.com/engenny/WemersonDamasceno/blob/output/github-contribution-grid-snake.svg)
