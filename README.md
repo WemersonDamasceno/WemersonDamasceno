@@ -27,4 +27,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/engenny/WemersonDamasceno/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WemersonDamasceno/WemersonDamasceno/blob/output/github-contribution-grid-snake.svg)
