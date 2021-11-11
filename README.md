@@ -4,7 +4,7 @@
 
 ### E ai! eu sou a Wemerson! 👋
 
-- 🌱 Estudando Flutter/Vue.js
+- 🌱 Estudando Flutter e Kotlin
 - 🏹 Futuro desenvolvedor mobile.
 - 🎮 Gosto muito de jogar e ouvir musica.
 
