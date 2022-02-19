@@ -27,4 +27,7 @@
 </div>
   
  ## print("Vamos codar 😁");
-![g17ZDlV](https://user-images.githubusercontent.com/37156004/139064266-a5ee717e-9578-4aea-9c08-da2e398ce17f.gif)
+ <div style="display: inline_block">
+   <img src="https://user-images.githubusercontent.com/37156004/154780084-57a3688f-abb0-4966-b890-59abe5f8a2d6.gif"/>
+ </div>
+
