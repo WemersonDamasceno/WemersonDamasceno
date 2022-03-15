@@ -25,6 +25,14 @@
   <img align="center" alt="Vue" height="30" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
   <img align="center" alt="Android" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-os.png"/>
 </div>
+ 
+ ## Entre em contato
+ <div align="">
+  <a href="mailto:wemersondamasceno7@gmail.com">  <img align="center" alt="Email" height="40" width="40" src="https://user-images.githubusercontent.com/37156004/158453062-334fe069-0863-44af-b878-07b5d7cb2a01.png"/>
+ <a href="https://www.linkedin.com/in/wemerson-monteiro/">  <img align="center" alt="Linkedin" height="40" width="40" src="https://user-images.githubusercontent.com/37156004/158453394-37f199a3-0369-48d4-ab8d-0863fb645f59.png"/>
+ </a> 
+   </div>
+
   
  ## print("Vamos codar 😁");
  <div style="display: inline_block">
