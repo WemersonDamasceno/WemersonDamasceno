@@ -7,6 +7,14 @@
 - 🌱 Estudando Flutter
 - 🏹 Futuro desenvolvedor mobile.
 - 🎮 Gosto muito de jogar e ouvir musica.
+ 
+<div align="">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+</div>
 
 <div align="center">
   <a href="https://github.com/WemersonDamasceno">
@@ -14,17 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WemersonDamasceno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- ## 🧑‍💻 Tecnologias e linguagens
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Vue" height="30" width="40" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  <img align="center" alt="Android" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-os.png"/>
-</div>
+
  
    ## 🌐 Entre em contato comigo! 
 <div style="display: flex; gap:10px;"> <br>
