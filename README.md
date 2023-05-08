@@ -24,7 +24,7 @@
   
 
  
-   ## 🌐 Entre em contato comigo! 
+   ### Entre em contato 
 <div style="display: flex; gap:10px;"> <br>
   <a href = "mailto:wemersondamasceno7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wemerson-monteiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -33,7 +33,7 @@
 </div>
 
   
- ## print("Vamos codar 😁");
+ ### print("Vamos codar 😁");
  <div style="display: inline_block">
   <img src="https://user-images.githubusercontent.com/37156004/139064266-a5ee717e-9578-4aea-9c08-da2e398ce17f.gif"/>
  </div>
