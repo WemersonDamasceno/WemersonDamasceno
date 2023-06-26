@@ -5,7 +5,7 @@
 ### E ai! eu sou o Wemerson! 👋
 
 - 🌱 Estudando Flutter
-- 🏹 Futuro desenvolvedor mobile.
+- 🏹 Desenvolvedor mobile.
 - 🎮 Gosto muito de jogar e ouvir musica.
  
 <div align="">
