@@ -1,6 +1,6 @@
 <h4 align="center">
- ![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/WemersonDamasceno/WemersonDamasceno/assets/37156004/e8db0f77-2f20-49b8-b59f-91ef0cbdc498)
 
+ <img src="https://github.com/WemersonDamasceno/WemersonDamasceno/assets/37156004/e8db0f77-2f20-49b8-b59f-91ef0cbdc498" />
 
 
 ### E ai! eu sou o Wemerson! 👋
